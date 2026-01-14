@@ -8,9 +8,7 @@ Bu proje, bir hayvan barınağındaki tüm operasyonların (hayvan takibi, sağl
 ---
 
 ## 👩‍💻 Developers
-- **Zeynep Gülce Gülmüş**
-- **Elif Perincek**
-
+- zgulceg0
 ---
 
 ## 🎯 Project Purpose | Projenin Amacı
@@ -108,14 +106,14 @@ Hayvan Barınağı Yönetim Sistemi; veri güvenliği yüksek, modüler ve geli�
 This project is developed for educational purposes.
 ## 📸 Application Screenshots
 
-### Main Interface
+
 ![Main Interface](screenshots/main_ui1.png)
 
-### Animal Management Panel
+
 ![Animal Management](screenshots/ui2.png)
 
-### Donation & Inventory Panel
+
 ![Donation Panel](screenshots/ui3.png)
 
-### Health & Treatment Records
+
 ![Health Records](screenshots/ui4.png)
