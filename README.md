@@ -104,15 +104,11 @@ Hayvan Barınağı Yönetim Sistemi; veri güvenliği yüksek, modüler ve geli�
 
 ## 📜 License
 This project is developed for educational purposes.
+
+
 ## 📸 Application Screenshots
 
-
-(screenshots/main_ui1.png)
-
-
-(screenshots/ui2.png)
-
-
-(screenshots/ui3.png)
-
-(screenshots/ui4.png)
+![Main UI](screensshots/main_ui1.png)
+![UI 2](screensshots/ui2.png)
+![UI 3](screensshots/ui3.png)
+![UI 4](screensshots/ui4.png)
