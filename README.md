@@ -107,13 +107,12 @@ This project is developed for educational purposes.
 ## 📸 Application Screenshots
 
 
-![Main Interface](screenshots/main_ui1.png)
+(screenshots/main_ui1.png)
 
 
-![Animal Management](screenshots/ui2.png)
+(screenshots/ui2.png)
 
 
-![Donation Panel](screenshots/ui3.png)
+(screenshots/ui3.png)
 
-
-![Health Records](screenshots/ui4.png)
+(screenshots/ui4.png)
